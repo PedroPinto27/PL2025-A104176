@@ -7,9 +7,9 @@
 
 ## Sobre o Repositório
 
-Este repositório tem como objetivo [atender todas as pastas dos devidos "TPCs" da unidade curricular de Processamento de Linguagens].
+Este repositório tem como objetivo atender todas as pastas dos devidos "TPCs" da unidade curricular de Processamento de Linguagens.
 
-📌 **Contato**: [a104176@alunos.uminho.pt]
+📌 **Contato**: a104176@alunos.uminho.pt
 
 
 
