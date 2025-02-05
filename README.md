@@ -1,4 +1,4 @@
-# -PL2025-A104176
+# PL2025-A104176
 
 # Nome do Repositório
 
