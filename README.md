@@ -3,4 +3,4 @@
 ![Foto](./image.jpg)  
 
 ##
-Este repositório tem como objetivo atender todas as pastas dos devidos "TPCs" da unidade curricular de Processamento de Linguagens.
+**Este repositório tem como objetivo atender todas as pastas dos devidos "TPCs" da unidade curricular de Processamento de Linguagens.**
