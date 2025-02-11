@@ -4,7 +4,8 @@
 
 ## Aluno
 
-- **Nome:** Rodrigo Mendes Lima  
-- **ID:** A104181 
+- **Nome:** Pedro Filipe Maneta Pinto
+- **ID:** A104176 
 - **Foto:**
+
 ![Foto](./img/image.jpg)  
