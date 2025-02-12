@@ -4,7 +4,7 @@
 
 **Autor:** Pedro Filipe Maneta Pinto
 
-**Número Mecanográfico** A104176
+**Número Mecanográfico:** A104176
 
 ## Sobre o TPC
 
