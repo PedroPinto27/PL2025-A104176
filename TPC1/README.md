@@ -4,7 +4,7 @@
 
 **Autor:** Pedro Filipe Maneta Pinto
 
-**Número Mecanográfico** A104176
+**Número Mecanográfico:** A104176
 
 ## Sobre o TPC
 
@@ -27,5 +27,10 @@ Devolve o seguinte *Output*:
 - 12
 - 10
 - 15
+
+**Foto:**
+
+![Foto](../img/image.jpg)  
+
 
 
