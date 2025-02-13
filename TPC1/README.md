@@ -25,16 +25,14 @@ O objetivo é processar uma mensagem de entrada contendo instruções e calcular
 
 Input: 
 
-```10a-5b=on3c4d=off6e-2f=on8g-10h=on5i=```
+```10a-5b=on3c4d=off6e-2f=on8g-10h=on5i```
 
 Devolve o seguinte *Output*:
 ```
-- 5
-- 12
-- 12
-- 10
-- 15
+5
+12
+12
+10
+15
+
 ```
-
-
-
