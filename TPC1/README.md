@@ -34,5 +34,4 @@ Devolve o seguinte *Output*:
 12
 10
 15
-
 ```
