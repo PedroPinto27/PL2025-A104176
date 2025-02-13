@@ -43,5 +43,5 @@ def soma_num(texto):
         
     return somaTotal
 
-message = "10a-5b=on3c4d=off6e-2f=on8g-10h=on5i="
-soma_num(message)
+message = input("Digite a sua Mensagem!\n")
+print(soma_num(message))
