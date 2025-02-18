@@ -6,6 +6,10 @@
 
 **Número Mecanográfico:** A104176
 
+**Foto:**
+
+![Foto](../img/image.jpg)  
+
 ## Sobre o TPC
 
 Este projeto implementa um somador que funciona seguindo os comandos "on" e "off" dentro de uma sequência de números e operadores. 
@@ -19,18 +23,16 @@ O objetivo é processar uma mensagem de entrada contendo instruções e calcular
 
 ## Exemplo
 
-Uma mensagem por exemplo: **"10a-5b=on3c4d=off6e-2f=on8g-10h=on5i="**
+Input: 
+
+```10a-5b=on3c4d=off6e-2f=on8g-10h=on5i```
 
 Devolve o seguinte *Output*:
-- 5
-- 12
-- 12
-- 10
-- 15
+```
+5
+12
+12
+10
+15
 
-**Foto:**
-
-![Foto](../img/image.jpg)  
-
-
-
+```
