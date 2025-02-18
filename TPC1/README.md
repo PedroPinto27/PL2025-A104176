@@ -1,6 +1,6 @@
 # TPC1 - Somador ON/OFF/=
 
-**Data:** 2024-02-12
+**Data:** 2025-02-12
 
 **Autor:** Pedro Filipe Maneta Pinto
 
