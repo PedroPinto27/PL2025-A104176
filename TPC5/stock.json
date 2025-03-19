@@ -1,0 +1,22 @@
+{
+    "stock": [
+        {
+            "cod": "A23",
+            "nome": "Agua 0.5L",
+            "quant": 8,
+            "preco": 0.7
+        },
+        {
+            "cod": "D67",
+            "nome": "Bolacha Maria",
+            "quant": 18,
+            "preco": 1.0
+        },
+        {
+            "cod": "P67",
+            "nome": "RedBull",
+            "quant": 2,
+            "preco": 1.3
+        }
+    ]
+}
